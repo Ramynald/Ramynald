@@ -1,22 +1,24 @@
 # Hi, I'm Nelya 👋
 
-I'm a Python Backend Developer with a strong interest in backend engineering and modern web development.
+I'm a Python Backend Developer focused on building modern web applications with Django and Flask.
 
-I enjoy understanding how systems work and turning ideas into reliable web applications.
+I enjoy understanding how systems work, designing backend architecture, and turning ideas into reliable, maintainable web applications. I'm continuously improving my skills by building real projects and exploring modern technologies.
+
+---
 
 ## ⚡ Fun Fact
 
-Long before I started programming, I loved taking things apart just to understand how they worked, repairing them, and putting them back together. Today I bring that same curiosity to software development—exploring system architecture, understanding how different components interact, and building clean, maintainable backend applications.
+Long before I started programming, I loved taking things apart just to understand how they worked, repairing them, and putting them back together. That same curiosity now drives the way I learn software development, explore system architecture, and build backend applications.
 
 ---
 
 ## 🚀 Featured Project
 
-### 🍳 FoodHub
+### 🍳 [FoodHub](https://github.com/Ramynald/FoodHub)
 
 FoodHub is my current public project.
 
-Originally created as an educational project, it is now evolving into a modern recipe platform.
+Originally created as an educational project, it is now evolving into a modern recipe platform with new features and continuous improvements.
 
 ### Planned Features
 
@@ -59,22 +61,29 @@ Originally created as an educational project, it is now evolving into a modern r
 
 - Designing backend architecture
 - Building modern web applications
-- Learning new technologies
 - Solving technical challenges
+- Learning new technologies
 - Turning ideas into real products
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Currently Exploring
 
-- 🚀 Developing **FoodHub**
-- 🏗️ Deepening my knowledge of backend architecture and REST API design
-- 🐳 Improving my skills in Docker and CI/CD
-- 🤖 Exploring AI-powered applications and AI-assisted development
+- Software architecture and backend design
+- REST API best practices
+- Docker and CI/CD
+- AI-powered web applications
+- AI-assisted development
+
+---
+
+## 🚀 Current Projects
+
+- 🍳 Developing **FoodHub**
 - 💄 Building a personal web platform in the beauty industry
 
 ---
 
 ## 🎯 My Goal
 
-To become a strong backend engineer by building real-world products, continuously learning modern technologies, and creating applications that provide real value to users.
+To keep growing as a backend developer, build meaningful web applications, and turn ideas into real products through continuous learning and practical experience.
