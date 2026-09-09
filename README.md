@@ -14,35 +14,19 @@ Long before I started programming, I loved taking things apart just to understan
 
 ## 🛠 Tech Stack
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,html,css,bootstrap,docker,githubactions,git,linux" />
+</p>
 
-- Python
-- Django
-- Django REST Framework
-- Flask
-- PostgreSQL
+---
 
-### Frontend
+## 🌱 Currently Exploring
 
-- HTML
-- CSS
-- Bootstrap
-
-### DevOps
-
-- Docker
-- Docker Compose
-- GitHub Actions
-- Git
-- Linux (WSL)
-
-### AI & Automation
-
-- LLMs
-- AI Agents
-- Tool Calling
-- AI-powered applications
+- LLMs and AI agents
+- Tool calling and agent architectures
 - Backend automation
+- AI-powered applications
+- Software architecture and backend design
 
 ---
 
@@ -54,17 +38,6 @@ Long before I started programming, I loved taking things apart just to understan
 - Solving technical challenges
 - Exploring AI and agent-based systems
 - Turning ideas into real products
-
----
-
-## 🌱 Currently Exploring
-
-- Software architecture and backend design
-- Backend automation
-- Docker and CI/CD
-- LLMs and AI agents
-- Tool calling and agent architectures
-- AI-powered applications
 
 ---
 
