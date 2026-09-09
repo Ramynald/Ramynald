@@ -1,33 +1,14 @@
 # Hi, I'm Nelya 👋
 
-I'm a Python Backend Developer focused on building modern web applications with Django and Flask.
+I'm a Python Backend Developer focused on building modern web applications with Django and Flask, with a growing focus on backend automation and AI engineering.
 
-I enjoy understanding how systems work, designing backend architecture, and turning ideas into reliable, maintainable web applications. I'm continuously improving my skills by building real projects and exploring modern technologies.
+I enjoy understanding how systems work, designing backend architecture, and turning ideas into reliable, maintainable applications. I'm continuously improving my skills through real-world projects and exploring modern technologies.
 
 ---
 
 ## ⚡ Fun Fact
 
 Long before I started programming, I loved taking things apart just to understand how they worked, repairing them, and putting them back together. That same curiosity now drives the way I learn software development, explore system architecture, and build backend applications.
-
----
-
-## 🚀 Featured Project
-
-### 🍳 [FoodHub](https://github.com/Ramynald/FoodHub)
-
-FoodHub is my current public project.
-
-Originally created as an educational project, it is now evolving into a modern recipe platform with new features and continuous improvements.
-
-### Planned Features
-
-- 🌍 Multilingual interface
-- ⭐ Recipe rating system
-- 💬 Reviews and comments
-- 🔍 Advanced search and filtering
-- ❤️ Collections and favorites
-- 🤖 AI-powered recommendations
 
 ---
 
@@ -55,14 +36,23 @@ Originally created as an educational project, it is now evolving into a modern r
 - Git
 - Linux (WSL)
 
+### AI & Automation
+
+- LLMs
+- AI Agents
+- Tool Calling
+- AI-powered applications
+- Backend automation
+
 ---
 
 ## 💡 What I Enjoy
 
 - Designing backend architecture
-- Building modern web applications
+- Building reliable backend systems
+- Backend automation
 - Solving technical challenges
-- Learning new technologies
+- Exploring AI and agent-based systems
 - Turning ideas into real products
 
 ---
@@ -70,20 +60,22 @@ Originally created as an educational project, it is now evolving into a modern r
 ## 🌱 Currently Exploring
 
 - Software architecture and backend design
-- REST API best practices
+- Backend automation
 - Docker and CI/CD
-- AI-powered web applications
-- AI-assisted development
+- LLMs and AI agents
+- Tool calling and agent architectures
+- AI-powered applications
 
 ---
 
 ## 🚀 Current Projects
 
-- 🍳 Developing **FoodHub**
-- 💄 Building a personal web platform in the beauty industry
+- 🔧 Developing backend applications and automation solutions
+- 🤖 Exploring AI agents and LLM-powered applications
+- 🧩 Building projects that combine backend development and AI
 
 ---
 
 ## 🎯 My Goal
 
-To keep growing as a backend developer, build meaningful web applications, and turn ideas into real products through continuous learning and practical experience.
+To grow as a strong Python Backend Developer, deepen my understanding of software architecture and automation, and build practical AI-powered applications that solve real-world problems.
