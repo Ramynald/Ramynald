@@ -9,7 +9,7 @@ I enjoy understanding how systems work, designing backend architecture, and turn
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,html,css,bootstrap,docker,githubactions,git,linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,postgres,html,css,bootstrap,docker,githubactions,git,linux,ollama,huggingface,cursor,taiga" />
 </p>
 
 ---
