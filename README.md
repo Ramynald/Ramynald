@@ -20,6 +20,12 @@ Long before I started programming, I loved taking things apart just to understan
 
 ---
 
+- 💬 Telegram: [@gramulechka](https://t.me/gramulechka)
+
+### 💼 Open to opportunities
+
+Open to Python Backend Developer opportunities, backend projects, and AI engineering collaborations.
+
 ## 🌱 Currently Exploring
 
 - LLMs and AI agents
