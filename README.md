@@ -6,12 +6,6 @@ I enjoy understanding how systems work, designing backend architecture, and turn
 
 ---
 
-## ⚡ Fun Fact
-
-Long before I started programming, I loved taking things apart just to understand how they worked, repairing them, and putting them back together. That same curiosity now drives the way I learn software development, explore system architecture, and build backend applications.
-
----
-
 ## 🛠 Tech Stack
 
 <p>
