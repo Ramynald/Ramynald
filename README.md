@@ -14,18 +14,6 @@ I enjoy understanding how systems work, designing backend architecture, and turn
 
 ---
 
-## 📩 Contact
-
-- 💬 Telegram: [@gramulechka](https://t.me/gramulechka)
-
----
-
-## 💼 Open to opportunities
-
-Open to Python Backend Developer opportunities, backend projects, and AI engineering collaborations.
-
----
-
 ## 🌱 Currently Exploring
 
 - LLMs and AI agents
@@ -44,6 +32,18 @@ Open to Python Backend Developer opportunities, backend projects, and AI enginee
 - Solving technical challenges
 - Exploring AI and agent-based systems
 - Turning ideas into real products
+
+---
+
+## 💼 Open to opportunities
+
+Open to Python Backend Developer opportunities, backend projects, and AI engineering collaborations.
+
+---
+
+## 📩 Contact
+
+- 💬 Telegram: [@gramulechka](https://t.me/gramulechka)
 
 ---
 
